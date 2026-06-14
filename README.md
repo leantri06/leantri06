@@ -1,6 +1,4 @@
-# 👋 Xin chào, tôi là Ân Tri (An Tri) 🚀
-
-Một sinh viên ngành **Khoa học Máy tính (Chương trình Tài năng - K24)** tại **Trường Đại học Bách khoa TP.HCM (HCMUT)**.
+Sinh viên ngành **Khoa học Máy tính (Chương trình Tài năng - K24)** tại **Trường Đại học Bách khoa TP.HCM (HCMUT)**.
 ### 🛠️ Kỹ năng công nghệ (Tech Stack)
 * **Ngôn ngữ lập trình:**
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
