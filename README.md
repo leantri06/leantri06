@@ -26,7 +26,7 @@ Sinh viên ngành **Khoa học Máy tính (Chương trình Tài năng - K24)** t
 
 ### 📊 Thống kê GitHub (GitHub Stats)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=leantri06&show_icons=true&cache_bust=1&theme=tokyonight&count_private=true" alt="An Tri's GitHub stats" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leantri06&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=leantri06&show_icons=true&cache_bust=2&theme=tokyonight&count_private=true" alt="An Tri's GitHub stats" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leantri06&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/> |
 | :---: | :---: |
 ---
 
