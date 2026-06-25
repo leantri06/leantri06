@@ -19,7 +19,7 @@ Sinh viên ngành Khoa học Máy tính (Chương trình Tài năng - K24) tại
 *   Công nghệ: `C++` thuần, quản lý bộ nhớ thủ công qua cấu trúc con trỏ danh sách liên kết tự định nghĩa.
 
 #### [Interstellar Functional Program (IFP) Interpreter](https://github.com/your-username/IFP-Interpreter)
-*   Mô tả: Trình thông dịch cho một ngôn ngữ lập trình hàm (Functional Programming) thu nhỏ dựa trên nền tảng Lambda Calculus và các chiến lược Beta-reduction.
+*   Mô tả: Trình thông dịch cho một ngôn ngữ lập trình hàm thu nhỏ dựa trên nền tảng Lambda Calculus và các chiến lược Beta-reduction.
 *   Công nghệ: `Python`.
 
 ---
