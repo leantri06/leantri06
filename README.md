@@ -30,9 +30,6 @@ Sinh viên ngành Khoa học Máy tính (Chương trình Tài năng - K24) tại
 | :---: | :---: |
 ---
 
-| <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=leantri06&show_icons=true&theme=tokyonight&count_private=true" alt="An Tri's GitHub stats" width="400"/> | <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=leantri06&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/> |
-| :---: | :---: |
-
 ### Kết nối với tôi
 *   Email (School): tri.le19092006@hcmut.edu.vn
 *   Email (Personal): star.leantrii.1909@gmail.com
