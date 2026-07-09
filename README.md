@@ -23,7 +23,7 @@ Sinh viên ngành Khoa học Máy tính (Chương trình Tài năng - K24) tại
 *   Công nghệ: `Python`.
 
 ---
-### 📊 GitHub Achievements & Stats
+### GitHub Achievements & Stats
 
 <p align="center">
   <table align="center" border="0" cellpadding="0" cellspacing="0">
