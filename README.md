@@ -26,17 +26,15 @@ Sinh viên ngành Khoa học Máy tính (Chương trình Tài năng - K24) tại
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Thẻ thống kê chung (Sử dụng Mirror Server ổn định hơn) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=leantri06&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <!-- Thẻ hiển thị các ngôn ngữ lập trình sử dụng nhiều nhất (Sử dụng Mirror Server) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=leantri06&layout=compact&theme=radical" alt="Top Langs" />
-  
-  <!-- Thẻ hiển thị chuỗi ngày đóng góp liên tục (Streak) -->
+  <!-- Thẻ thống kê chung sử dụng Vercel App chuẩn hóa mới -->
+  <img src="https://github-readme-stats.vercel.app/api?username=leantri06&show_icons=true&theme=radical&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <br><br>
+  <!-- Thẻ hiển thị các ngôn ngữ lập trình sử dụng nhiều nhất -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leantri06&layout=compact&theme=radical" alt="Top Langs" />
+  <br><br>
+  <!-- Thẻ hiển thị chuỗi ngày đóng góp liên tục (Sử dụng Server Vercel mới thay cho Heroku sập) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leantri06&theme=radical" alt="GitHub Streak" />
 </p>
-
----
 
 ### Kết nối với tôi
 *   Email (School): tri.le19092006@hcmut.edu.vn
