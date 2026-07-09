@@ -26,14 +26,22 @@ Sinh viên ngành Khoa học Máy tính (Chương trình Tài năng - K24) tại
 ### 📊 GitHub Achievements & Stats
 
 <p align="center">
-  <!-- Thẻ thống kê chi tiết trang cá nhân (Đã chạy ngon lành) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leantri06&theme=radical" alt="GitHub Profile Summary" />
-  
-  <br>
-  
-  <!-- Thẻ hiển thị tỷ lệ các ngôn ngữ lập trình bạn sử dụng nhiều nhất (Cùng server, chắc chắn chạy) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leantri06&theme=radical" alt="Top Languages" />
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- Thẻ chi tiết trang cá nhân -->
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leantri06&theme=radical" alt="GitHub Profile Summary" height="220px" />
+      </td>
+      <!-- Khoảng cách nhỏ giữa 2 thẻ -->
+      <td width="10"></td>
+      <!-- Thẻ tỷ lệ ngôn ngữ lập trình sử dụng nhiều nhất -->
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leantri06&theme=radical" alt="Top Languages" height="220px" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 ---
 
 ### Kết nối với tôi
