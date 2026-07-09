@@ -23,6 +23,16 @@ Sinh viên ngành Khoa học Máy tính (Chương trình Tài năng - K24) tại
 *   Công nghệ: `Python`.
 
 ---
+### 📊 GitHub Stats
+
+<!-- Thẻ thống kê chung -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leantri06&show_icons=true&theme=radical)
+
+<!-- Thẻ hiển thị các ngôn ngữ lập trình sử dụng nhiều nhất -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leantri06&layout=compact&theme=radical)
+
+<!-- Thẻ hiển thị chuỗi ngày đóng góp liên tục (Streak) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=leantri06&theme=radical)
 
 ### Kết nối với tôi
 *   Email (School): tri.le19092006@hcmut.edu.vn
