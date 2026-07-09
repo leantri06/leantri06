@@ -23,17 +23,18 @@ Sinh viên ngành Khoa học Máy tính (Chương trình Tài năng - K24) tại
 *   Công nghệ: `Python`.
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Achievements & Stats
+
+<!-- Bộ cúp danh hiệu tự động - Load siêu nhanh và không bao giờ lỗi -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=leantri06&theme=radical&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <p align="center">
-  <!-- Thẻ thống kê chung sử dụng Vercel App chuẩn hóa mới -->
-  <img src="https://github-readme-stats.vercel.app/api?username=leantri06&show_icons=true&theme=radical&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  <br><br>
-  <!-- Thẻ hiển thị các ngôn ngữ lập trình sử dụng nhiều nhất -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leantri06&layout=compact&theme=radical" alt="Top Langs" />
-  <br><br>
-  <!-- Thẻ hiển thị chuỗi ngày đóng góp liên tục (Sử dụng Server Vercel mới thay cho Heroku sập) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leantri06&theme=radical" alt="GitHub Streak" />
+  <!-- Thẻ thống kê tổng hợp từ một bên dịch vụ khác (cực kỳ uy tín) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leantri06&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ### Kết nối với tôi
