@@ -25,17 +25,16 @@ Sinh viên ngành Khoa học Máy tính (Chương trình Tài năng - K24) tại
 ---
 ### 📊 GitHub Achievements & Stats
 
-<!-- Bộ cúp danh hiệu tự động - Load siêu nhanh và không bao giờ lỗi -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=leantri06&theme=radical&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Thẻ thống kê tổng hợp từ một bên dịch vụ khác (cực kỳ uy tín) -->
+  <!-- Thẻ thống kê chi tiết trang cá nhân (Đã chạy ngon lành) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leantri06&theme=radical" alt="GitHub Profile Summary" />
+  
+  <br>
+  
+  <!-- Thẻ hiển thị tỷ lệ các ngôn ngữ lập trình bạn sử dụng nhiều nhất (Cùng server, chắc chắn chạy) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leantri06&theme=radical" alt="Top Languages" />
 </p>
+---
 
 ### Kết nối với tôi
 *   Email (School): tri.le19092006@hcmut.edu.vn
